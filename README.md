@@ -17,3 +17,12 @@ Learning:
 -Learnt how to build Select
 -Learnt how to build Rating
 -Learnt how to build checkbox
+
+
+Exp-3:
+Name: PARIJAT PAL
+23BCC70037
+learning:
+-learnt about BrowserRouter
+-learnt about Routes 
+-learnt about Link
