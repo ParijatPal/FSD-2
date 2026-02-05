@@ -26,3 +26,22 @@ learning:
 -learnt about BrowserRouter
 -learnt about Routes 
 -learnt about Link
+
+
+Exp-4:
+Name:PARIJAT PAL
+23BCC70037
+Learning:
+-learnt about State management
+-learnt about API
+
+
+EXP-5
+Name: PARIJAT PAL
+learning:
+-learned about lazy loading
+
+Exp-6
+Name:PARIJAT PAL
+learning:
+-learned about how to implement form
