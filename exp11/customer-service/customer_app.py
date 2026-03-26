@@ -1,5 +1,4 @@
 from flask import Flask, jsonify
-import flask
 import requests
 
 app = Flask(__name__)
@@ -9,6 +8,9 @@ customers = {
     102: {"id": 102, "name": "Customer-2", "email": "customer-2@example.com"}
 }
 
+# 🔥 Add this (clean + reusable)
+ORDER_SERVICE_URL = "https://order-service-bgvh.onrender.com"
+
 @app.route("/customers/<int:user_id>/orders")
 def get_account_details(user_id):
     customer = customers.get(user_id)
@@ -17,7 +19,7 @@ def get_account_details(user_id):
 
     try:
         response = requests.get(
-            f"http://localhost:5002/orders/user/{user_id}",
+            f"{ORDER_SERVICE_URL}/orders/user/{user_id}",
             timeout=3
         )
         if response.status_code == 200:
@@ -35,5 +37,3 @@ def home():
 
 if __name__ == "__main__":
     app.run(port=5001, debug=True)
-
-flask
