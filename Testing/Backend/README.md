@@ -1,33 +1,18 @@
-
-**Experiment 16:** Continuous Integration  
+Expeiment 16:
 PARIJAT PAL 
 23BCC70037 
 Learned about Github Action
-## Screenshots
-
-### Screenshot 1
-![Screenshot 1](Testing/Backend/Screenshots/Screenshot%202026-04-16%20155527.png)
-
-### Screenshot 2
-![Screenshot 2](Testing/Backend/Screenshots/Screenshot%202026-04-16%20155606.png)
+Screenshots: 
+Testing\Backend\Screenshots\Screenshot 2026-04-16 155527.png
+Testing\Backend\Screenshots\Screenshot 2026-04-16 155606.png
 
 
-
-
-**Experiment 20:** Continuous Deployment
+Experiment 20:
 PARIJAT PAL
 23BCC70037
 Learned CD using DOCKER and Github Actions
-## CD-Screenshots
-
-### Docker Terminal
-![Docker Terminal](Backend/CDScreenshots/Docker_terminal.jpeg)
-
-### Git Actions
-![Git Actions](Backend/CDScreenshots/Git_Actions_SS.jpeg)
-
-### Screenshot 5000
-![Screenshot 5000](Backend/CDScreenshots/screenshot_5000.jpeg)
-
-### Screenshot 5005
-![Screenshot 5005](Backend/CDScreenshots/screenshot_5005.jpeg)
+CD-Screenshots:
+Backend\CDScreenshots\Docker_terminal.jpeg
+Backend\CDScreenshots\Git_Actions_SS.jpeg
+Backend\CDScreenshots\screenshot_5000.jpeg
+Backend\CDScreenshots\screenshot_5005.jpeg
